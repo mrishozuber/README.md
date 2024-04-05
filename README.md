@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tzanonima
-- 👀 I’m interested in  Ethical hacking,Digital Forensic,incident Responce and Malware Analysis
-- 🌱 I’m currently learning Ethical hacking,Digital Forensic,incident Responce and Malware Analysis
-- 💞️ I’m looking to collaborate on Ethical hacking,Digital Forensic and incident Responce
-- 🤔 I’m looking for help with Malware Analysis
+- 👀 Interested in DevSecOps,Red-teaming & Blue-teaming
+- 💞️ I’m looking to collaborate on DevSecOps,Red-teaming & Blue-teaming project
 - 💬 Ask me about Anything
 - 📫 Reach me on <a href="https://twitter.com/tzanonima">Twitter</a>
 - ⚡ Fun fact: security is funny
